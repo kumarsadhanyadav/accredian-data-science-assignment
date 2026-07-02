@@ -2,7 +2,7 @@
 
 ## Candidate Information
 - **Name:** Rajnish Kumar Sadhan
-- **GitHub:** https://github.com/kumarsadhanrajnish
+- **GitHub:** https://github.com/kumarsadhanyadav
 
 ## Project Overview
 This repository contains my solution for the Accredian Data Science Internship Assignment.
