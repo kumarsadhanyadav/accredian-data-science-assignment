@@ -1,26 +1,40 @@
 # Accredian Data Science Internship Assignment
 
-## Overview
+## Candidate Information
+- **Name:** Rajnish Kumar Sadhan
+- **GitHub:** https://github.com/kumarsadhanrajnish
+
+## Project Overview
 This repository contains my solution for the Accredian Data Science Internship Assignment.
+
+## Files
+- `rajnish_assingment_solution.ipynb` – Complete notebook solution
+- `requirements.txt` – Python dependencies
+- `README.md` – Project documentation
 
 ## Technologies Used
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 - Seaborn
 - Plotly
 - Scikit-learn
-
-## Contents
-- Assignment.ipynb
-- requirements.txt
+- Jupyter Notebook
 
 ## How to Run
-1. Clone the repository.
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Open Assignment.ipynb using Jupyter Notebook or JupyterLab.
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+Open:
+
+```
+rajnish_assingment_solution.ipynb
+```
 
 ## Author
-Rajnish Kumar Sadhan
+
+**Rajnish Kumar Sadhan**
